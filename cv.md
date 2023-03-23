@@ -84,3 +84,21 @@ Here are my pet projects:
 
   ***
 
+### Education
+
+- IT Academy (https://www.it-academy.by/about/it-academy/)
+  - Preparatory course "Basics of web technologies" (07.10.2020 - 04.11.2020)
+  - The training course "Development of websites using HTML and CSS" with a small JavaScript module (02.12.2020 - 08.02.2021)
+  - Web application development with JavaScript (05.05.2021 - 18.08.2021)
+- Udemy
+
+  - [React Front To Back](https://www.udemy.com/share/105yDQ3@9T2z8LMEU0APP4WQGliGXREMV6YR9egd4PFbWxWuM0oI7XVREMBOAZdbiSrhQqEozA==/) (01.01.2022 - 20.02.2022)
+
+  ***
+
+### Knowledge of languages
+
+- English - Strong Intermediate Plus (CEFR B1+)
+- Ukrainian - Perfect on understanding level
+- Belarussian - Native
+- Russian - Native
